@@ -1,0 +1,9 @@
+idskema int10
+idfokus int10
+idtema int10
+idsubtema int10
+idtkt int2
+prog_pendanaan varchar50
+tahu	n_pendanaan int10
+idsbk int10
+lama int10
